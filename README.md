@@ -10,5 +10,5 @@ This model can detect COVID-19 using x-ray images of lungs with accuracy ~1.0. T
 https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 with the goal of identifying COVID-19 cases based on lung x-ray images.
 
-Usage
+Usage:
 Clone the repository and install the required dependencies.
